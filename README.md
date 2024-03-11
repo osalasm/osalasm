@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, I'm Omar Salas 👋
+
+```js
+  const osalasm = {
+    name: 'Omar',
+    lastName: 'Salas',
+    code: [JavaScript, HTML, CSS, Node, React]
+}
+```
+
+You can find me:
+- [Linkedin](https://www.linkedin.com/in/omar-salas-461220266/)
+- [Mail](o.salas.mar@gmail.com)
+- Phone: +56 9 76212274
 
 <!--
 **osalasm/osalasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
