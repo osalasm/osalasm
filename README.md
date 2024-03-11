@@ -4,7 +4,8 @@
   const osalasm = {
     name: 'Omar',
     lastName: 'Salas',
-    code: [JavaScript, HTML, CSS, Node, React]
+    front: [HTML, CSS, TailwindCSS, JavaScript, React],
+    back: [Node, MongoDB, Express]
 }
 ```
 
