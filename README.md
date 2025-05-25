@@ -5,7 +5,7 @@
     name: 'Omar',
     lastName: 'Salas',
     front: [HTML, CSS, TailwindCSS, JavaScript, React],
-    back: [Node, MongoDB, Express]
+    back: [.Net, C#, Node, Python, Sql Server, MongoDB, Express]
 }
 ```
 
